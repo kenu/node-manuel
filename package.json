@@ -1,0 +1,24 @@
+{
+  "name": "manuel",
+  "version": "0.0.0",
+  "description": "manuel",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "~1.0.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kenu/manuel"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/kenu/manuel/issues"
+  },
+  "homepage": "https://github.com/kenu/manuel"
+}
